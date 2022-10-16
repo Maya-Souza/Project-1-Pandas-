@@ -30,7 +30,7 @@ Cleaning a dataset
    - Although many "desk job" positions can be done remotely, a research by Ladders showed that by the end of 2022 only around 25% of jobs offered by the top 50,000 employers in North America would be remote. That means that, statistically, if a shark decides to work a 9-5 job, it is highly likely that it will be working close to other sharks.
 &nbsp;
   >3. *DO MAINLY THE SAME TYPE OF JOB EVERY DAY*
-   - Having a traditional 9-5 "desk job" usually means doing the same type of tasks every day. Picture a data analyst, for instance: even though the data might differ, most of the work consists of cleaning, analysing and then visualizing the data.
+   - Having a traditional 9-5 "desk job" usually means doing the same type of tasks every day. Picture a data analyst, for instance: even though the data might differ, most of the work consists of cleaning, analysing and then visualizing the data. In shark terms this would be translated into attacking the same type of people in a similar way.
   &nbsp;
   >4. *PREFER HAVING VACATIONS DURING HIGH SEASONS*
  - Although this is not necessarily always true, a non-flexible type of job might make it challenging for a employee to have several days off during months in which this is not expected from them (because of social and/or family reasons). Therefore, it is reasonable to assume that it would be easier to ask for days off during the holidays (December) or school vacations (July) since it is a societal convention.
