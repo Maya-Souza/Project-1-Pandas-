@@ -1,16 +1,5 @@
 # Project 1 - Pandas
 Cleaning a dataset
-
-#### First thoughts about the data
-
-- Most of the columns have 60% of NaNs. The most affected are 'Age', 'Time' and 'Species', so analysis that take into consideration these data point will not be so precise;  
--  
-  
-- On the other hand, the 'Date', 'Country' and 'Injury' have a good number of data points to be analysed;
-- 
-  
-- The 'Injury' column presents a challenge since the injuries, though described there, but if a person didn't suffer any injuries it is still registered in text form with no unique standard to all of them. Although, I did notice an interesting pattern of "No injury" written in these cases;
-- 
   
 
 #### Hypothesis:
@@ -31,6 +20,16 @@ Cleaning a dataset
   >4. *PREFER HAVING VACATIONS DURING HIGH SEASONS*
  - Although this is not necessarily always true, a non-flexible type of job might make it challenging for a employee to have several days off during months in which this is not expected from them (because of social and/or family reasons). Therefore, it is reasonable to assume that it would be easier to ask for days off during the holidays (December) or school vacations (July) since it is a societal convention.
   
+#### First thoughts about the data
+
+- Most of the columns have 60% of NaNs. The most affected are 'Age', 'Time' and 'Species', so analysis that take into consideration these data point will not be so precise;  
+-  
+  
+- On the other hand, the 'Date', 'Country' and 'Injury' have a good number of data points to be analysed;
+- 
+  
+- The 'Injury' column presents a challenge since the injuries, though described there, but if a person didn't suffer any injuries it is still registered in text form with no unique standard to all of them. Although, I did notice an interesting pattern of "No injury" written in these cases;
+
 
 ### Analysis:
 
