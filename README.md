@@ -13,15 +13,11 @@ Cleaning a dataset
 - 
   
 
-#### Possible hypothesis:
-- **Are you likely to get eaten by a shark?** (maybe interactive where you can choose from a set of options and combinations?)
-  > Location, time of the year, activity, sex
-  ****
-&nbsp;
-  #### Would sharks rather work a 9-5 "desk job" or go freelance? 
+#### Hypothesis:
+ #### Would sharks rather work a 9-5 "desk job" or go freelance? 
   ***
 
-**Criteria for prefering a 9-5 job:**
+**Criteria for preference:**
 &nbsp;
   >1. *ENJOY WORKING AT THESE HOURS*
    - This is the first point to be considered when choosing a non-flexible job. For a shark, the word "work" would mean "hunting" since eating requires intense labor to meet their physiological needs. They do not eat for pleasure like humans do.
@@ -35,3 +31,7 @@ Cleaning a dataset
   >4. *PREFER HAVING VACATIONS DURING HIGH SEASONS*
  - Although this is not necessarily always true, a non-flexible type of job might make it challenging for a employee to have several days off during months in which this is not expected from them (because of social and/or family reasons). Therefore, it is reasonable to assume that it would be easier to ask for days off during the holidays (December) or school vacations (July) since it is a societal convention.
   
+
+### Analysis:
+
+- All the steps and explanations were included in the Jupyter Notebook called "Would sharks be freelancers?"
